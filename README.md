@@ -41,9 +41,8 @@ portfolio/
 ├── index.html          # Main HTML file with all sections
 ├── style.css           # Complete CSS stylesheet
 ├── README.md           # This file
-└── public/
-    └── assets
-        └── Eric's CV.pdf  # Profile image
+└── assets/
+    └── Eric's CV.pdf   # Profile image
 ```
 
 ## 🚀 Getting Started
